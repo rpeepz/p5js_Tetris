@@ -12,5 +12,5 @@ screengrab:
 ![test](https://github.com/rpeepz/p5js_Tetris/blob/main/Screen%20Shot%202023-06-25%20at%208.35.25%20PM.png "sample") <br>
 
 
-[sketch.js]: https://github.com/rpeepz/p5js_Tetris/blob/main/sketch.js "code"
+[sketch.js]: https://raw.githubusercontent.com/rpeepz/p5js_Tetris/refs/heads/main/sketch.js "code"
 [p5js code editor]: https://editor.p5js.org "p5js"
